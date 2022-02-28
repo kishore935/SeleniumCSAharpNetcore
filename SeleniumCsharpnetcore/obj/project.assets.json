@@ -4889,11 +4889,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kishore\\source\\repos\\SeleniumCsharpnetcore\\SeleniumCsharpnetcore\\SeleniumCsharpnetcore.csproj",
+      "projectUniqueName": "C:\\Users\\Kishore\\OneDrive\\Documents\\GitHub\\SeleniumCsharpnetcore\\SeleniumCsharpnetcore.csproj",
       "projectName": "SeleniumCsharpnetcore",
-      "projectPath": "C:\\Users\\Kishore\\source\\repos\\SeleniumCsharpnetcore\\SeleniumCsharpnetcore\\SeleniumCsharpnetcore.csproj",
+      "projectPath": "C:\\Users\\Kishore\\OneDrive\\Documents\\GitHub\\SeleniumCsharpnetcore\\SeleniumCsharpnetcore.csproj",
       "packagesPath": "C:\\Users\\Kishore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kishore\\source\\repos\\SeleniumCsharpnetcore\\SeleniumCsharpnetcore\\obj\\",
+      "outputPath": "C:\\Users\\Kishore\\OneDrive\\Documents\\GitHub\\SeleniumCsharpnetcore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
