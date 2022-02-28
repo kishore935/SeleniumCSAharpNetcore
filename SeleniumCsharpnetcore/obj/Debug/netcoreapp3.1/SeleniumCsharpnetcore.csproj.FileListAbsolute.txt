@@ -1,0 +1,3 @@
+C:\Users\Kishore\source\repos\SeleniumCsharpnetcore\SeleniumCsharpnetcore\obj\Debug\netcoreapp3.1\SeleniumCsharpnetcore.AssemblyInfoInputs.cache
+C:\Users\Kishore\source\repos\SeleniumCsharpnetcore\SeleniumCsharpnetcore\obj\Debug\netcoreapp3.1\SeleniumCsharpnetcore.AssemblyInfo.cs
+C:\Users\Kishore\source\repos\SeleniumCsharpnetcore\SeleniumCsharpnetcore\obj\Debug\netcoreapp3.1\SeleniumCsharpnetcore.csproj.CoreCompileInputs.cache
